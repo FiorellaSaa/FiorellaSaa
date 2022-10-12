@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working with JavaScript, CSS, HTML.
 - 🌱 I’m currently learning Firebase, Node.js
-- ⚡ Fun fact: I like to dance and learn languages.
+<!--- ⚡ Fun fact: I like to dance and learn languages.-->
 
 <div align="center">
 <h3>💻Tech Stack:<h3>
