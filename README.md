@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Firebase, Node.js
 <!--- ⚡ Fun fact: I like to dance and learn languages.-->
 
-<div align="center">
+<div>
 <h3>💻Tech Stack:<h3>
 <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" alt="javascript" width="50" height="50"/>
 <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" alt="html5" width="50" height="50"/>
